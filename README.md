@@ -1,4 +1,4 @@
-# hun_os
+# Hun Os
 Writing an OS in Rust, To Study Operating System and Computer System
 
 # Reference
